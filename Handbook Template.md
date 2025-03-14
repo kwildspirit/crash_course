@@ -84,7 +84,7 @@ ___
 
 # 2. Data Types
 
-???
+Sample Data Types
 
 ```java
 int num = 0;
@@ -105,7 +105,10 @@ ___
 
 # 3. Console I/O
 
-???
+```java
+//Prints a line of whatever you want
+System.out.println(" ");
+```
 
 
 
